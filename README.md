@@ -1,4 +1,4 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devoloper-Sohel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Md Sohel Khan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devoloper-Sohel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>] 
 ### Hi there 👋, I'm Sohel Khan
 #### Web design & developer
 ![Web design & developer](https://cdn3.vectorstock.com/i/1000x1000/97/87/web-development-web-banners-with-text-and-bright-vector-25339787.jpg)
