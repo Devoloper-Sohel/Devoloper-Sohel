@@ -1,4 +1,4 @@
-https://image.shutterstock.com/image-vector/concept-web-design-development-creative-260nw-1310674091.jpg
+
 ](https://github.com/Devoloper-Sohel)  
 ### Hi there 👋, I'm Sohel Khan
 #### Web design & developer
