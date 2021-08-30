@@ -1,7 +1,7 @@
 
-](https://github.com/Devoloper-Sohel)  
+)  
 ### Hi there 👋, I'm Sohel Khan
-#### Web design & developer
+### Web design & developer
 ![Web design & developer](https://cdn3.vectorstock.com/i/1000x1000/97/87/web-development-web-banners-with-text-and-bright-vector-25339787.jpg)
 
 Hi i am sohel i am a web design & developer & as a freelancer working in the marketplace.
